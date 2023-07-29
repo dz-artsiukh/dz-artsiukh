@@ -1,18 +1,14 @@
-### Hi there 👋
-
-<!--
-**dz-artsiukh/dz-artsiukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Dzanis</h1>
-<h3 align="center">I'm a detail-oriented and passionate QA Engineer. Please details below to have a closer look on me)</h3>
+<h2 align="center">Welcome to my GitHub page!</h2>
+<h3 align="center">I'm just sharing here what I've learnt and practiced at software testing and programming courses</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dz-artsiukh&label=Profile%20views&color=0e75b6&style=flat" alt="dz-artsiukh" /> </p>
 
 - 🌱 I’m currently learning **JS, Postman, SQL**
 
-- 📫 How to reach me **den4art@gmail.com**
+- 📫 Write me something:) **den4art@gmail.com** 
 
-- 📄 Checm my CV [https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing](https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing)
+- 📄 Check my CV [https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing](https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
