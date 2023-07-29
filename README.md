@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dzanis</h1>
 <h2 align="center">Welcome to my GitHub page!</h2>
-<h3 align="center">I'm just sharing here what I've learnt and practiced at software testing and programming courses</h3>
+<h3 align="center">I'm an aspiring QA Engineer, and I'm sharing here what I've learnt and practiced at software testing and programming courses</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dz-artsiukh&label=Profile%20views&color=0e75b6&style=flat" alt="dz-artsiukh" /> </p>
 
