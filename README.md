@@ -1,19 +1,33 @@
-<h1 align="center">Hi 👋, I'm Dzanis</h1>
-<h2 align="center">Welcome to my GitHub page!</h2>
-<h3 align="center">I'm an aspiring QA Engineer, and I'm sharing here what I've learnt and practiced at software testing and programming courses</h3>
+<h4 align="left">Hi!</h4>
+<h4 align="left">My name is Dzianis and I'm aspiring QA Engineer.</h4> 
+<h4 align="left">This is my GitHub page and here you can find what I've learnt and practiced at software testing and programming courses. Feel free to contact me if you are interested and want me to be part or your develpment team.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dz-artsiukh&label=Profile%20views&color=0e75b6&style=flat" alt="dz-artsiukh" /> </p>
 
-- 🌱 I’m currently learning **JS, Postman, SQL**
+### Tools and Languages:
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![jmeter](https://img.shields.io/badge/jmeter-grey?style=for-the-badge&logo=apache&logoColor=red)
+[![DBeaver](https://img.shields.io/badge/DBeaver-white?style=for-the-badge&logo=data:image/png;base64,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)](https://dbeaver.io/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+- 📄 Check my [CV](https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing)
+
+- 🌱 I’m currently learning **JS, Postman, SQL, JMeter, **
 
 - 📫 Write me something:) **den4art@gmail.com** 
 
-- 📄 Check my CV [https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing](https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dzianis-artsiukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dzianis-artsiukh" height="30" width="40" /></a>
-</p>
+<a href="https://t.me/ideear">
+	<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="[https://www.linkedin.com/in/evgenyev](https://linkedin.com/in/dzianis-artsiukh)">
+	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
