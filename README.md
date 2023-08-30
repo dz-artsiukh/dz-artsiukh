@@ -30,4 +30,6 @@
 	<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+### Certificates received so far!
+![Dzianis_Artsiukh_Terminal](https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/d2c1dfcc-9407-46a2-b0c6-fc44fac8dfa9)
 
