@@ -31,5 +31,7 @@
 </a>
 
 ### Certificates received so far!
-![Dzianis_Artsiukh_Terminal](https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/d2c1dfcc-9407-46a2-b0c6-fc44fac8dfa9)
-
+<div align="left">
+  <img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/d2c1dfcc-9407-46a2-b0c6-fc44fac8dfa9" width="300" height="200"/>
+ <img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/44492829-8541-4ecd-9485-707ef4daa4f9" width="300" height="200"/>
+</div>
