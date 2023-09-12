@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 📄 Check my [CV](https://drive.google.com/file/d/1ItPkLMfQ-k4Z8T7Z9Gcj78zugPBCiGBG/view?usp=sharing)
+- 📄 Check my [CV](https://www.canva.com/design/DAFt91u08YQ/N-SEY1t48Zf6vwLPXETlZQ/edit?utm_content=DAFt91u08YQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 - 🌱 I’m currently learning **JS, Postman, SQL, JMeter, **
 
