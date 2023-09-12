@@ -33,7 +33,7 @@
 
 ### Certificates received so far!
 <div align="left">
-  <img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/d2c1dfcc-9407-46a2-b0c6-fc44fac8dfa9" width="300" height="200"/>
- <img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/44492829-8541-4ecd-9485-707ef4daa4f9" width="300" height="200"/>
-<img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/de37be43-34cc-4691-90ee-e0944b67f056" width="300" height="200"/>
+  <img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/d2c1dfcc-9407-46a2-b0c6-fc44fac8dfa9" width="270" height="180"/>
+ <img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/44492829-8541-4ecd-9485-707ef4daa4f9" width="270" height="180"/>
+<img src="https://github.com/dz-artsiukh/dz-artsiukh/assets/117485665/de37be43-34cc-4691-90ee-e0944b67f056" width="270" height="180"/>
 </div>
